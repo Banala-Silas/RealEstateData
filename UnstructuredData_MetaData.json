@@ -1,0 +1,12 @@
+[
+    {
+        "source_url" : "refs/heads/main/UnstructuredData/Dim_Agent.json",
+        "sink_folder" : "Bronze_Dim_Agent",
+        "sink_file" : "Dim_Agent.json"
+    },
+    {
+         "source_url" : "refs/heads/main/UnstructuredData/Dim_Property.json",
+        "sink_folder" : "Bronze_Dim_Property",
+        "sink_file" : "Dim_Property.json"
+    }
+]

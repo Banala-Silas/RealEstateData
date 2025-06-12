@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/StructuredData/Dim_Buyer.csv",
+        "sink_folder" : "Bronze_Dim_Buyers",
+        "sink_file" : "Dim_Buyer.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/StructuredData/Dim_Seller.csv",
+        "sink_folder" : "Bronze_Dim_Sellers",
+        "sink_file" : "Dim_Seller.csv"
+
+    },
+    {
+        "source_url" : "refs/heads/main/StructuredData/Fact_PropertySales.csv",
+        "sink_folder" : "Bronze_Fact_PropertySales",
+        "sink_file" : "Fact_PropertySales.csv"
+
+    }
+]
